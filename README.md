@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeauto&height=180&section=header&text=Caesar&fontColor=f59e0b&fontSize=60&fontAlign=62&fontAlignY=32&desc=&descSize=25&descAlign=85&descAlignY=50)
-
-### 안녕하세요. Front End 개발자 박완섭입니다🦍
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeauto&height=180&section=header&text=Caesar&fontColor=f59e0b&fontSize=60&fontAlign=62&fontAlignY=32&desc=&descSize=25&descAlign=85&descAlignY=50)
 
 #### 📫 Contact
 - Email : wanseob.dev@gmail.com
@@ -17,3 +13,5 @@
 #### 🎓 Education
 - 코드스쿼드 FE 과정 수료 
 - 인하대학교 컴퓨터공학과 전공
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcaesar1030&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
