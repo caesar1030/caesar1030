@@ -6,6 +6,9 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/Three.js-000?logo=three.js&logoColor=fff&style=for-the-badge)
+
+
 
 #### 🎓 Education
 - 코드스쿼드 
