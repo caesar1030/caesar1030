@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
 
 #### 🎓 Education
-- CodeSquad 
+- CodeSquad FE
 - Computer Science, Inha Univ
 
 #### 📫 Get in touch
